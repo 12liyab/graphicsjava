@@ -4,7 +4,7 @@ import java.awt.*;
 public class HouseAndCar extends JPanel {
 
     @Override
-    protected void paintComponent(Graphics g) { 
+    protected void paintComponent(Graphics g) {
         super.paintComponent(g);
 
         // Draw the background (sky and grass)
