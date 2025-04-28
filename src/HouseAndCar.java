@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class HouseAndCar extends JPanel {
+public class HouseAndCar extends JPanel { 
 
     @Override
     protected void paintComponent(Graphics g) {
