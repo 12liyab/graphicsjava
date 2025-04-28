@@ -9,7 +9,7 @@ public class HouseAndCar extends JPanel {
 
         // Draw the background (sky and grass)
         g.setColor(new Color(135, 206, 235)); // Light blue for the sky
-        g.fillRect(0, 0, getWidth(), getHeight() / 2);
+        g.fillRect(0, 0, getWidth(), getHeight() / 2); 
         g.setColor(new Color(34, 139, 34)); // Green for the grass
         g.fillRect(0, getHeight() / 2, getWidth(), getHeight() / 2);
 
