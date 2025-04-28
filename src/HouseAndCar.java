@@ -5,7 +5,7 @@ public class HouseAndCar extends JPanel {
 
     @Override
     protected void paintComponent(Graphics g) {
-        super.paintComponent(g); 
+        super.paintComponent(g);
 
         // Draw the background (sky and grass)
         g.setColor(new Color(135, 206, 235)); // Light blue for the sky
