@@ -7,7 +7,7 @@ public class HouseAndCar extends JPanel {
     protected void paintComponent(Graphics g) { 
         super.paintComponent(g);
 
-        // Draw the background (sky and grass)
+        // Draw the background (sky and grass) 
         g.setColor(new Color(135, 206, 235)); // Light blue for the sky
         g.fillRect(0, 0, getWidth(), getHeight() / 2);
         g.setColor(new Color(34, 139, 34)); // Green for the grass
