@@ -3,7 +3,7 @@ import java.awt.*;
 
 public class HouseAndCar extends JPanel {
 
-    @Override
+    @Override 
     protected void paintComponent(Graphics g) {
         super.paintComponent(g);
 
